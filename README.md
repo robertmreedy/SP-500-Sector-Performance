@@ -30,15 +30,6 @@
 - **Observable Plot** — all chart visualizations
 - **D3** — data loading and parsing
 
-## Local Development
-
-```bash
-pip install yfinance pandas
-python scripts/fetch_sectors.py
-```
-
-Outputs `data/sectors.csv` locally. Commit and push to trigger the live notebook update.
-
 ## Data Source
 
 Adjusted closing prices via [Yahoo Finance](https://finance.yahoo.com) using the `yfinance` Python library. Data is for informational and portfolio purposes only, not investment advice.
