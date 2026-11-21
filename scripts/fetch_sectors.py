@@ -14,7 +14,8 @@ SECTORS = {
     "XLRE": "Real Estate",
     "XLB": "Materials",
     "XLU": "Utilities",
-    "XLC": "Communication Services"
+    "XLC": "Communication Services",
+    "SPY": "S&P 500"
 }
 
 # Pull 1 year of data to support 30/90/180-day windows
