@@ -2,7 +2,7 @@ name: Update Sector Data
 
 on:
   schedule:
-    - cron: "0 14 * * 1-5"  # 9AM ET, weekdays only
+    - cron: "0 22 * * 1-5"  # 5PM ET, weekdays only
   workflow_dispatch:
 
 jobs:
